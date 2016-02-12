@@ -1,3 +1,1 @@
-# Tutorial
-
-This is my tutorial repository.
+Similar to "Guitar Hero" ,the game  combines music, programs (c# as the front end as well as interface between the piano and computer , python as the backend to parse the midi file to the format that c# can open for the unity 5 ) and CG (Unity physics engine) . 
